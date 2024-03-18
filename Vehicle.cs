@@ -1,10 +1,10 @@
-﻿using System;
+﻿    using System;
 
 /// <summary>
 /// <auctor>Enzo</auctor>
 /// </summary>
 
-class Veículo
+class Vehicle
 {
     public int Id { get; set; }
     public string Brand { get; set; } = "";

@@ -1,4 +1,4 @@
-class Car : Veículo
+class Car : Vehicle
 {
     public void accelerate()
     {

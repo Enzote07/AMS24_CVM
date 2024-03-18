@@ -1,4 +1,4 @@
-class Airplane : Veículo
+class Airplane : Vehicle
 {
     public void up()
     {
